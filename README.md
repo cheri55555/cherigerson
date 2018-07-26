@@ -1,2 +1,2 @@
-# cheri gerson
+# cherigerson
 Welcome to my website!
